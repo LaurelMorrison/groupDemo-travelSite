@@ -2,7 +2,7 @@
 
 ## Project Outline
 
-The task in this group project is to use your newfound skills of automation, and rebuild your travel brochure site using objects, arrays, components, modules, CSS selectors, Flexbox, semantic HTML, and data providers.
+Building on our first group project (helloWorld), the task for this group project is to use your newfound skills of automation, and rebuild your travel brochure site using objects, arrays, components, modules, CSS selectors, Flexbox, semantic HTML, and data providers.
 
 Each city, each landmark, and each famous citizen must be represented in application state as objects. This means that you will need multiple separate data providers, list components, and HTML representation components for each page.
 
